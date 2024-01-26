@@ -1,3 +1,3 @@
 # recipes_website
 
-This project involves setting up a basic recipe website using HTML and CSS
+This project is a basic excercise in HTML and CSS, setting up a simple website that displays different recipes. 
